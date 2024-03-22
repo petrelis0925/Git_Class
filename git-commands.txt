@@ -1,0 +1,18 @@
+The are numerous Git Commands to learn as follows:
+
+Git init - Initialize a Git (Only Required once per project)
+
+Git add <file(s)> - Stage code changes (for the next commit)
+Git commit -m “...” - Create a commit for the staged changes (with a message)
+
+Git status - Get the current repository status (e.g. which changes are staged)
+
+Git log - Output a chronologically ordered list of commits
+
+Git checkout <id> - Temporarily move back to commit <id>
+
+Git revert <id> - Revert the changes of commit <id> (by creating a new commit)
+
+Git reset <id> - Undo commit(s) up to commit <id> by deleting commits
+
+Please can you review this code if there are anymore commands to add?

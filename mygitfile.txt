@@ -1,5 +1,0 @@
-
-This is my first Git class
-It's going to be fun
-I think I did it!
-Adding new lines of codes to my file.
